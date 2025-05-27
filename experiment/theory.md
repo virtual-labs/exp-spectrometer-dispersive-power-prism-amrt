@@ -28,3 +28,27 @@ $c_{1}$ is the velocity of wave in first face and $c_{2}$ is the velocity of wav
 
 
 Consider a prism  of angle A and refractive index n2. Let i1 and r1 are the incident and refracted ray from face AB, and i2 and r2 are the incident and emerged ray from the second face AC.
+
+
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure3.jpg" alt="Figure 3" style="max-width: 300px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+
+### Dispersive power of prism
+The refractive index of the material of the prism can be calculated by the equation.
+
+ $$n=\frac{\sin \left( \frac{A+D}{2} \right)}{\sin \left( \frac{A}{2} \right)}...............(3)$$
+
+
+Where, D is the angle of minimum deviation, here D is different for different colour.<br>
+Consider two colour green and violet, corresponding minimum deviation is $D_{G}$ and $D_{V}$ ,corresponding  refractive index is.
+
+$$n_{G}=\frac{\sin \left( \frac{A+D_{G}}{2} \right)}{\sin \left( \frac{A}{2} \right)}\text{,   }n_{V}=\frac{\sin \left( \frac{A+D_{V}}{2} \right)}{\sin \left( \frac{A}{2} \right)}....(4)$$
+
+There for dispersive power is.
+
+$$\omega=\frac{(n_{V}-n_{G})}{n}............(5)$$
+
+Where 
+
+$$n=\frac{(n_{V}+n_{G})}{2}............(6)$$
+
+
