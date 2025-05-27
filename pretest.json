@@ -1,0 +1,29 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which among the following phenomena causes the light to change the rectilinear propagation while passing through different mediums?",
+      "answers": {
+        "a": "Diffraction",
+        "b": "Refraction",
+        "c": "Transmission",
+        "d": "Reflection"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the smallest possible angle between the incident and emerged ray call?",
+      "answers": {
+        "a": "Emerged angle",
+        "b": "Angle of deviation",
+        "c": "Incident angle",
+        "d": "Minimum deviation"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

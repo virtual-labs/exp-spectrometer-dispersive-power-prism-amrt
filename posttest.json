@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "What is the use of collimator?",
+      "answers": {
+        "a": "It is used for focusing source light",
+        "b": "Use to get the parallel rays",
+        "c": "Diverge the source light",
+        "d": "Converge the source light"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What type of telescope is used in a spectrometer?",
+      "answers": {
+        "a": "Dioptric telescope(Refractive)",
+        "b": "Catoptrics telescope(Reflection)",
+        "c": "Catadioptric telescope(specifically shaped mirrors and lenses)",
+        "d": "Galileo's telescope(Refracting type, objective-plano convex, eye piece-plano concave)"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Snell's law can be written as:",
+      "answers": {
+        "a": "sin(i)/sin(r)=n2/n1",
+        "b": "sin(i)/sin(r)=n1/n2",
+        "c": "sin(i)/sin(r)=1/(n1*n2)",
+        "d": "sin(i)/sin(r)=1/(n1+n2)"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
