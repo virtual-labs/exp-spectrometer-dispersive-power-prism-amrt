@@ -45,7 +45,7 @@ $$n_{G}=\frac{\sin \left( \frac{A+D_{G}}{2} \right)}{\sin \left( \frac{A}{2} \ri
 
 There for dispersive power is.
 
-$$\omega=\frac{(n_{V}-n_{G})}{n}............(5)$$
+$$\omega=\frac{(n_{V}-n_{G})}{n-1}............(5)$$
 
 Where 
 
