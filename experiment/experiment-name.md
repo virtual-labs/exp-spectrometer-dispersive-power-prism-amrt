@@ -1,1 +1,1 @@
-## Experiment name
+## Spectrometer,Dispersive power of a prism
