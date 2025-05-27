@@ -1,5 +1,3 @@
-## Theory 
-
 
 ## Theory
 
