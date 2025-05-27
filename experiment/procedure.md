@@ -111,4 +111,23 @@ Angle of prism  A =..................Degrees
 9. Find the refractive index for these colors. Using equation (3).
 10. Dispersive power for yellow and blue
 
+$$\omega=\frac{(n_{b}-n_{y})}{n-1}$$
 
+Where $n_b$ and $n_y$ are the refractive index of blue and yellow, and $n=(n_b +n_y)/2$
+
+<img src="./images/figure6.jpg" alt="Figure 1" style="max-width: 500px; height: auto;">
+
+
+Refractive index for the line ________ n1 =  
+
+Refractive index for the line ________ n2 =
+
+Average refractive index $n=\frac{n_1 + n_2}{2}$
+
+Dispersive power for ______ and ______ line $\omega=\frac{n_2 - n_1}{n-1}$
+
+## Result
+Angle of the Prism, A=........... <br>
+Refractive index for blue line, n1 = ..............<br>
+Refractive index for yellow line, n2 = ...............<br>
+Dispersive power of the prism for blue and yellow line, $\omega$ = ............<br>
